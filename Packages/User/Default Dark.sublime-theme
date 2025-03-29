@@ -1,0 +1,16 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	"variables":
+	{
+	},
+	"rules":
+	[
+		{
+          "class": "vcs_status_badge",
+          "settings": ["!show_vcs_status_badges"],
+          "content_margin": 0,
+          "layer0.texture": "",
+          "layer0.opacity": 0.0,
+        }
+	]
+}

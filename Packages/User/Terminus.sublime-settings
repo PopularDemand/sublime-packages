@@ -1,0 +1,16 @@
+{
+    "default_config" : {
+        "windows" : "Sh"
+    },
+    "shell_configs":
+    [
+        {
+            "name": "Sh",
+            "cmd": ["C:/Program Files/Git/bin/sh.exe"],
+            "env": {},
+            "enable": true,
+            "default": true,
+            "platforms": ["windows"]
+        }
+    ]
+}

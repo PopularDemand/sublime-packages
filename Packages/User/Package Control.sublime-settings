@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Scheme - Vintage Terminal",
+		"Colorsublime",
+		"Emmet",
+		"ERB Snippets",
+		"Github Color Theme",
+		"Liquid",
+		"LiveServerPlus",
+		"Markdown Extended",
+		"MarkdownPreview",
+		"Package Control",
+		"Prisma",
+		"ProductiveSnippetsERB",
+		"Sass",
+		"Terminal",
+		"Terminus",
+		"Theme - Arc",
+		"Theme - One",
+	],
+}

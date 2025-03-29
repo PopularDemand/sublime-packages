@@ -1,0 +1,17 @@
+{
+	"font_size": 8,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Packages/Colorsublime - Themes/FireCode.tmTheme",
+	"theme": "One.sublime-theme",
+	"default_line_ending": "unix",
+	"index_files": true,
+	"show_git_status": false,
+	"show_git_status_in_status_bar": false,
+	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "tmp/*"],
+	"tab_size": 2,
+	"file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.sublime-workspace"],
+}

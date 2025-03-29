@@ -1,0 +1,26 @@
+[
+
+  {
+    "caption": "Ad Lorem: Five (5)",
+    "command": "ad",
+    "args": {"qty": 5 }
+  },
+
+  {
+    "caption": "Ad Lorem: Sentence (15)",
+    "command": "ad",
+    "args": {"qty": 15 }
+  },
+
+  {
+    "caption": "Ad Lorem: Paragraph (30)",
+    "command": "ad",
+    "args": {"qty": 30 }
+  },
+
+  {
+    "caption": "Ad Lorem: Bulk (200)",
+    "command": "ad",
+    "args": {"qty": 200 }
+  }
+]

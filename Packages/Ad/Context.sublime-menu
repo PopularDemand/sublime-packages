@@ -1,0 +1,12 @@
+[
+    {
+        "caption":"Ad Lorem",
+        "children":
+        [
+            {"command": "ad", "caption": "Five (5)", "args":{"qty":5}},
+            {"command": "ad", "caption": "Sentence (15)", "args":{"qty":15}},
+            {"command": "ad", "caption": "Paragraph (30)", "args":{"qty":30}},
+            {"command": "ad", "caption": "Bulk (200)", "args":{"qty":200}}
+        ] 
+    }
+]

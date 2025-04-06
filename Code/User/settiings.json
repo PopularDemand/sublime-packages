@@ -1,0 +1,40 @@
+{
+    "editor.wordWrap": "on",
+    "emmet.includeLanguages": {
+        "erb": "html",
+        "markdown": "html",
+        "javascript": "html"
+    },
+    "emmet.preferences": {
+    
+    },
+    "files.associations": {
+        ".env": "shellscript"
+    },
+    "formate.alignColon": false,
+    "formate.verticalAlignProperties": false,
+    "editor.minimap.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "editor.stickyScroll.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.startupEditor": "none",
+    "window.restoreWindows": "none",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.quickSuggestionsDelay": 107374184,
+    "editor.quickSuggestions": {
+        "strings": false,
+        "other": false,
+        "comments": false
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.lightbulb.enabled": "off",
+    "workbench.colorCustomizations": {
+        "editorBracketMatch.border": "#00000000", // Transparent border
+        "editorBracketMatch.background": "#444444" // Transparent background
+    },
+    "workbench.colorTheme": "Jetbrains Dark Theme",
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "emmet.triggerExpansionOnTab": true
+} 
